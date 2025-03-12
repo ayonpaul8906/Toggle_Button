@@ -39,6 +39,7 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 For any inquiries or suggestions, feel free to reach out:
-- **GitHub**: [Ayon Paul](https://github.com/ayonpaul8906)
+- [**GitHub**](https://github.com/ayonpaul8906)
+- [**Linkedin**](https://www.linkedin.com/in/ayon2407s/)
 - **Email**: ayonpaul8906@gmail.com
 
