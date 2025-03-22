@@ -14,6 +14,12 @@
 - **CSS**: Styling for the toggle button.
 - **JavaScript**: Adding interactivity and dynamic behavior.
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/a35c2eeb-ed60-49aa-9e8d-40610506c22e)
+![image](https://github.com/user-attachments/assets/a1b0b5d9-21f6-411f-92ca-05452b367bc5)
+
+
+
 ## How to Use
 1. Open the [Toggle Button](https://ayonpaul8906.github.io/Toggle_Button/) webpage.
 2. Click on the button to switch between its states.
